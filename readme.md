@@ -536,6 +536,8 @@
 #### colorscheme-generators
 
 - [oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of a Materia and Oomox themes (GTK2, GTK3 and others). (python)
+- [pywal](https://github.com/dylanaraps/pywal) - Terminal application for setting you wallpaper and then generating a color scheme from it. (python)
+- [wallust](https://codeberg.org/explosion-mental/wallust) - Terminal application for generatiing color schemes based off of an image/wallpaper. (rust)
 - [wpgtk](https://github.com/deviantfero/wpgtk) - a colorscheme, wallpaper and template manager for \*nix. (python)
 
 ---
