@@ -176,6 +176,7 @@
 - [cmatrix](https://github.com/abishekvashok/cmatrix) - Simple terminal matrix implementation. (C)
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Script which generates animated colorful pipes. (shell)
 - [cbonsai](https://gitlab.com/jallbrit/cbonsai) - Tree growing animation with your own text. (C)
+- [Hollywood](https://a.hollywood.computer/) - Utility that splits the terminal into multiple panes of Techinical melodrama (displays cool stuff)
 - [tty-clock](https://github.com/xorg62/tty-clock) - Customizable clock in terminal. (C)
 
 ---
@@ -500,7 +501,6 @@
 - [mpv](https://github.com/mpv-player/mpv) - Command Line Media Player
 - [musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player. (C++)
 - [No-More-Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect. (C)
-- [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes on the fly. (python)
 - [Themer](https://github.com/mjswensen/themer) - themer takes a set of colors and generates themes for your apps. (javascript)
 - [tdrop](https://github.com/noctuid/tdrop) - A glorified WM-independent dropdown creator. (Shell)
 
